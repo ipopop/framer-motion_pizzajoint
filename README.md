@@ -1,5 +1,4 @@
-* * *
-Just cloning from the repo of the-net-ninja_iamshaunjp
+[Live version](https://framer-motion-pizzajoint.vercel.app/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
